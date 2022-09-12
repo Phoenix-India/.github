@@ -1,2 +1,2 @@
 # The Phoenix India
-#### An open Orginization for developers from developers
+#### An open Organization for developers from developers
